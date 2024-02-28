@@ -7,3 +7,7 @@ Here, I attempted to practice JavaScript by using it to create a color flipper w
 - function
 - if statement
 - Event handler
+
+
+## Live page
+https://ioddgamers.github.io/color-flipper/
